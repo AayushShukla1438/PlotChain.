@@ -30,7 +30,7 @@ PlotChain is a decentralized land record management system built using blockchai
 
 - **Frontend:** React.js, Tailwind CSS  
 - **Smart Contracts:** Solidity  
-- **Blockchain:** Polygon (Mumbai Testnet) / Ethereum  
+- **Blockchain:** Ethereum  
 - **Web3 Integration:** Ethers.js  
 - **Tools:** Hardhat, IPFS (for file storage), MetaMask
 
